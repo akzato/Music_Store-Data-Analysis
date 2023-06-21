@@ -1,5 +1,5 @@
 
-/*I HAVE ADDED QUESTIONS AS COMMENT FOR YOUR REFERENCE - AKSHAT KAPOOR  */
+/* HEY I AM AKSHAT KAPOOR, I HAVE ADDED QUESTIONS AS COMMENTS FOR YOUR REFERENCE. */
 
 /* Q1: Who is the senior most employee based on job title? */
 
@@ -224,5 +224,6 @@ JOIN country_max_spending ms
 ON cc.billing_country = ms.billing_country
 WHERE cc.total_spending = ms.max_spending
 ORDER BY 1;
+
 
 /* Thank You :) Regards Akshat Kapoor */
