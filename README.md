@@ -1,5 +1,5 @@
 # Music_Store-Data-Analysis with SQL
-In this project, I analyzed the music playlist database, and examine the dataset with SQL and which helped us as a store to understand the business growth by answering simple questions in the form of queries.
+In this project, I analyzed the music playlist database, and examine the dataset with SQL and which helped us as a store to understand the business growth by answering multiple questions in the form of queries.
 Database and Tools:
 1. Postgre SQL
 2. PgAdmin4
