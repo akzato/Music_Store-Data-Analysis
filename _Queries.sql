@@ -1,4 +1,5 @@
-/*	Question Set 1 - Easy */
+
+/*I HAVE ADDED QUESTIONS AS COMMENT FOR YOUR REFERENCE - AKSHAT KAPOOR  */
 
 /* Q1: Who is the senior most employee based on job title? */
 
@@ -224,7 +225,4 @@ ON cc.billing_country = ms.billing_country
 WHERE cc.total_spending = ms.max_spending
 ORDER BY 1;
 
-
-/* source: www.youtube.com/@RishabhMishraOfficial */
-
-/* Thank You :) */
+/* Thank You :) Regards Akshat Kapoor */
